@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I'm sorry that you see this");
+            Console.WriteLine("This page is under construction, sorry!");
         }
     }
 }
